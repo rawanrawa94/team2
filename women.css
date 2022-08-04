@@ -1,0 +1,75 @@
+.one {
+    height: 44px; 
+    width: 100% ;
+    left:0px ;
+    top: 0px;
+    color: #585562;
+    color: rgb(88, 85,98);
+    background-color: #000000;
+    background-color: rgba(0, 0, 0 ,0);
+   
+    display: inline-block; 
+    position: absolute;
+    font-size: 14px;
+    font-family: 'Muslish',"Open Sans",sans-serif;
+
+    font-style: normal;
+    border-bottom: 1px solid;
+    
+} 
+li {
+    position: relative; 
+    margin-left: 50px; 
+    margin-right: 50px;
+    display: inline-block; 
+    font-family: 'Muslish',"Open Sans",sans-serif;
+    font-style: normal;
+    
+    } 
+    a {
+        position: relative; 
+        text-decoration: none; 
+        text-align: center; 
+        padding: 40px;
+        color: #1f1f1f; 
+        font-family: 'Mulish'"Open Sans",sans-serif;
+        font-style: normal;
+    } 
+    h2 {
+        text-align: center; 
+        margin-top: 110px;
+    } 
+    .cardcontainer{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .bb{
+        flex-basis: calc(50%);
+        font-style: oblique;
+    }
+    .bb img{
+        border-style:solid;
+        border-color: black;
+        width: 350px;
+        margin-left: 20%;
+    }
+    
+    .ee{margin-left: -120px;
+        text-align: center;
+        padding-top: 10px;
+        
+        }
+        .cc{padding-left:420px;
+            text-align: center;
+            padding-top: 10px;
+            
+            }
+            .logo{
+                font-family: 'Babylonica', cursive;
+              font-family: 'Beau Rivage', cursive;
+              font-family: 'Cairo', sans-serif;
+              font-family: 'Noto Sans Arabic', sans-serif;
+              font-size: x-large;
+              font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+              }
